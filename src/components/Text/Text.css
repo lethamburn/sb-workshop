@@ -5,6 +5,7 @@
   letter-spacing: 1px;
   padding: 20px;
   border: 1px dashed black;
+  color: crimson
 }
 
 .left {
@@ -24,13 +25,13 @@
 }
 
 .small{
-  font-size: 10px;
+  font-size: 6px;
 }
 
 .medium{
-  font-size: 20px;
+  font-size: 27px;
 }
 
 .large{
-  font-size: 28px
+  font-size: 38px
 }
